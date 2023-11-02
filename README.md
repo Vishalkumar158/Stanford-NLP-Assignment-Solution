@@ -10,7 +10,8 @@ For now, all assignments are completed. I will continue watching the rest of the
 ## Skills I have Learned From this Course 
 -Pytorch 
 -Python 
--NLP
+-
+ 
 
 
 
