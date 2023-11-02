@@ -7,10 +7,11 @@ Reading papers is an important part of this course and crucial for completing th
 For now, all assignments are completed. I will continue watching the rest of the lectures and come back in September this year to try completing one of the default projects.
 
 
-## Skills I have Learned From this Course 
--Pytorch 
--Python 
--
+
+## Technologies Used
+- HTML
+- CSS
+
  
 
 
