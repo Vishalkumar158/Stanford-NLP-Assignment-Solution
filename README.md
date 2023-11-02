@@ -9,11 +9,9 @@ For now, all assignments are completed. I will continue watching the rest of the
 
 
 ## Technologies Used
-- HTML
-- CSS
-
- 
-
+- Python
+- Pytorch
+- Numpy
 
 
 ## Clone the repository: 
