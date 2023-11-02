@@ -9,5 +9,5 @@ For now, all assignments are completed. I will continue watching the rest of the
 Clone the repository: 
     bash
     
-    git clone (https://github.com/Vishalkumar158/Stanford-NLP-Assignment-Solution)https://github.com/Vishalkumar158/Stanford-NLP-Assignment-Solution.git
+    git clone https://github.com/Vishalkumar158/Stanford-NLP-Assignment-Solution.git
     
