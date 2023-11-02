@@ -6,7 +6,8 @@ Reading papers is an important part of this course and crucial for completing th
 
 For now, all assignments are completed. I will continue watching the rest of the lectures and come back in September this year to try completing one of the default projects.
 
-Clone the repository: 
+## Clone the repository: 
+
     bash
     
     git clone https://github.com/Vishalkumar158/Stanford-NLP-Assignment-Solution.git
